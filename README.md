@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifullahtanim" alt="saifullahtanim" /></a> </p>
 
 - 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp**
-
-- 🤝 I’m looking for help with [All Project Hear :](https://github.com/saifullahtanim)
+ 
+- 🤝 I’m looking for help with [All Project Hear](https://github.com/saifullahtanim) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/saifullahtanim](https://github.com/saifullahtanim)
 
