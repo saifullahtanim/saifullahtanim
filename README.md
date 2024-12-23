@@ -1,5 +1,4 @@
-![I'm a web developer.](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/471257942_608516921547653_528018527354468818_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=WjJFecL51zcQ7kNvgGI1Oyt&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=A3OIy0l-mrOr0Zks88L4LbJ&oh=00_AYAc0A2UNxSvoJSK2wDF54Y7yx0Kh4fOPR42XU_kEqVA9w&oe=676F9761)
-
+![I'm a web developer.](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/471090088_608526811546664_2954262173683584969_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=L3GK097WdSQQ7kNvgFg2LPB&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AXZh2yHpo5sjq4GcTQUaYcA&oh=00_AYBSN-h_FA3XoVzNNs2RQPyzLDG7B7CI6Sf6lmGKQUR7xw&oe=676FA130)
 ### Hi there 👋, This is Tanim
 #### I'm a web developer.
 
@@ -22,9 +21,9 @@ Skills: JAVA / JS / REACT / JS / HTML / CSS / PHP / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifullahtanim)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifullahtanim&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifullahtanim&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saifullahtanim/contributions?format=svg&private=false)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saifullahtanim/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/saifullahtanim)  
 
