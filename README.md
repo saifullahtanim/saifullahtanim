@@ -1,4 +1,7 @@
-![I'm a web developer.](https://www.linkedin.com/posts/saifulla-tanim-616354296_activity-7284549952939114496-DqPi?utm_source=share&utm_medium=member_desktop)
+![I'm a web developer.]
+
+<a href="https://media.licdn.com/dms/image/v2/D5622AQFm7wnIQ6O90A/feedshare-shrink_2048_1536/B56ZRfrkkfHQAo-/0/1736772047944?e=1739404800&v=beta&t=b4MkgQ--94I4zMTxQEBM0XOicVVNAT8Scp07BkC8MFw">
+</a>
 <h1 align="center">Hi 👋, This is Saifulla Tanim.</h1>
 <h2 align="center">Creating Seamless Digital Experiences as a Full-Stack Web Developer.</h2>
 
