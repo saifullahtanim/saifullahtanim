@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp**
  
-- 🤝 I’m looking for help with [All Project Hear](https://github.com/saifullahtanim) 
+- 🤝 I’m looking for help with [All Project Hear](https://github.com/saifullahtanim?tab=repositories) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/saifullahtanim](https://github.com/saifullahtanim)
 
