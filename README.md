@@ -1,8 +1,6 @@
 
 
-<a href="<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/991df2bf-f0b3-42e0-9131-7bf17fc2c99d" />
-">
-</a>
+<a href=" <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/991df2bf-f0b3-42e0-9131-7bf17fc2c99d" /></a>
 <h1 align="center">Hi 👋, This is Saifulla Tanim.</h1>
 <h2 align="center">Creating Seamless Digital Experiences as a Full-Stack Web Developer.</h2>
 
