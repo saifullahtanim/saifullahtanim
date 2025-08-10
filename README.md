@@ -1,6 +1,6 @@
 
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/saifullatanim/">
     <img src="https://media.licdn.com/dms/image/v2/D5616AQFnBr2NFQon6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZbY2U81GsAY-/0/1747394844503?e=1757548800&v=beta&t=WS0K1xs6jbxj31uk4fw7Yya6fvBIHaRfiCviJKKlHPo" alt="Profile Image">
 </a> 
 
