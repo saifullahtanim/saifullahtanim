@@ -4,7 +4,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D5616AQFnBr2NFQon6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZbY2U81GsAY-/0/1747394844503?e=1764201600&v=beta&t=LtLN0blzyX8dCEBeyzYLHvFdqNGiQjR08mauXxN88Ws" alt="Profile Image">
 </a> 
 
-<h1 align="center">Hi 👋, This is Saifulla Tanim.</h1>
+<h1 align="center">Hi 👋 This is Saifulla Tanim.</h1>
 <h2 align="center">Creating Seamless Digital Experiences as a Full-Stack Web Developer.</h2>
 
 <p align="letf">As a Full Stack Dedicated Web Developer, I specialize in flawless websites that meet or exceed client expectations. I am passionate about learning new technologies and enjoy sharing my knowledge with others. I thrive on solving practical problems and excel at planning and achieving objectives while keeping the final goal in mind. I have successfully built multiple websites for various clients and take great pride in both the quality of my work and my communication skills. While WordPress is my primary framework, I am also proficient in ReactJS, JavaScript, PHP, and Python.</p>
