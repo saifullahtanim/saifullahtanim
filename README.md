@@ -1,8 +1,10 @@
 
 
 <a href="https://www.linkedin.com/in/saifullatanim/">
-    <img src="[https://media.licdn.com/dms/image/v2/D5616AQFnBr2NFQon6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZbY2U81GsAY-/0/1747394844503?e=1764201600&v=beta&t=LtLN0blzyX8dCEBeyzYLHvFdqNGiQjR08mauXxN88Ws](https://media.licdn.com/dms/image/v2/D5616AQFnBr2NFQon6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZbY2U81GsAY-/0/1747394844503?e=1768435200&v=beta&t=DlT5IWyA7m3jpTKiQ0Xqfmoj23CKGKttAKA-AbV1xoo)" alt="Profile Image">
-</a> 
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQFnBr2NFQon6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZbY2U81GsAY-/0/1747394844503?e=1768435200&v=beta&t=DlT5IWyA7m3jpTKiQ0Xqfmoj23CKGKttAKA-AbV1xoo"
+         alt="Profile Image">
+</a>
+ 
 
 <h1 align="center">Hi 👋 This is Saifulla Tanim.</h1>
 <h2 align="center">Creating Seamless Digital Experiences as a Full-Stack Web Developer.</h2>
