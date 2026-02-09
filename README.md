@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.saifullatanim.me/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20My%20Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
