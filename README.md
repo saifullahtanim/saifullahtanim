@@ -18,14 +18,8 @@
 <p align="center">
   As a dedicated <strong>Frontend Web Developer</strong>, I focus on building
   modern, responsive, and user-friendly web interfaces.
-</p>
-
-<p align="center">
   I enjoy transforming designs into clean, accessible, and
   <strong>high-performance</strong> user experiences.
-</p>
-
-<p align="center">
   I specialize in <strong>React, Next.js, JavaScript, TypeScript, and Tailwind CSS</strong>,
   and continuously explore new tools and best practices to deliver
   smooth and engaging digital experiences.
